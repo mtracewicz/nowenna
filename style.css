@@ -1,0 +1,17 @@
+#details {
+  max-width: 80vw;
+}
+
+.done{
+  background-color: green;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 80vw;
+}
+
+.day {
+  flex-direction: row;
+}
